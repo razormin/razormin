@@ -4,7 +4,7 @@
 <li>🌱 I'm especially interested in learning and understanding the technologies that will be critical to products and solutions of the future. Currently, I am learning python with a focus on machine learning, deep learning and web deployment.</li>
 <li>👀 I believe technology can and should be a force for good and I am super interested in applying transformative technologies to business, environmental and societal challenges.</li>
 <li>💞️ I’m looking to collaborate on machine and deep learning projects where I can serve as a bridge between code and real world problems.</li>
-<li>📫 You can reach me at iray.min@gmail.com. Feel free to check out my LinkedIn profile at www.linkedin.com/in/ray-min.</li>
+<li>📫 You can reach me at <a href = "mailto: iray.min@gmail.com">iray.min@gmail.com</a>. Feel free to check out my <a href="https://www.linkedin.com/in/ray-min/">LinkedIn</a> profile.</li>
 </ul>
 <!---
 razormin/razormin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
