@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 <ul>
-<li>👋 Welcome to my GitHub! I'm Ray and this is my space to learn about Git. I've used it for some of my Python coding, machine learning, deep learning, and web deployment exercises.</li>
+<li>👋 Welcome to my GitHub! I'm Ray and this is my space to learn about Git. So far, I've used it as a repository for some of my Python coding, machine learning, deep learning, and web deployment exercises.</li>
 <li>I started my programming journey with BASIC and then learned Pascal, Lisp, machine language and assembly language as an undergrad at UC Berkeley (I know, it dates me).</li>
 <li>🌱 I'm especially interested in learning and understanding the technologies such as AI and cloud computing that will revolutionize and transform many industries.</li>
 <li>👀 I believe technology can and should be a force for good and I am super interested in applying transformative technologies to business, environmental and societal challenges.</li>
